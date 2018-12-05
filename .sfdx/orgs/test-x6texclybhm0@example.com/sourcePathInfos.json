@@ -1,0 +1,712 @@
+[
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app",
+        {
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543982590340,
+            "changeTime": 1543982590340,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main",
+        {
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543982590340,
+            "changeTime": 1543982590340,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1543991214810,
+            "changeTime": 1543991214810,
+            "contentHash": "407f569bafb061bcd4b838c38d6c2b07086fd537"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1543982590340,
+            "changeTime": 1543982590340,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy",
+        {
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1543982694629,
+            "changeTime": 1543982694629,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6586,
+            "modifiedTime": 1543991214733,
+            "changeTime": 1543991214733,
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1543991214738,
+            "changeTime": 1543991214738,
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1543991214741,
+            "changeTime": 1543991214741,
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1543991214743,
+            "changeTime": 1543991214743,
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2029,
+            "modifiedTime": 1543991214753,
+            "changeTime": 1543991214753,
+            "contentHash": "cdbb2702cab6b3468a6e9634bb308020e3bec1b9"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1543991214754,
+            "changeTime": 1543991214754,
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1543991214754,
+            "changeTime": 1543991214754,
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1543991214754,
+            "changeTime": 1543991214754,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1543991214755,
+            "changeTime": 1543991214755,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1543991214755,
+            "changeTime": 1543991214755,
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1543991214755,
+            "changeTime": 1543991214755,
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1543991214755,
+            "changeTime": 1543991214755,
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1543991214756,
+            "changeTime": 1543991214756,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1543991214756,
+            "changeTime": 1543991214756,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1543991214756,
+            "changeTime": 1543991214756,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Total_Number_of_Guest__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields/Total_Number_of_Guest__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 416,
+            "modifiedTime": 1543991214757,
+            "changeTime": 1543991214757,
+            "contentHash": "492886b584b06078ab8170ed7e8862b63cc1fb96"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/Market__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/Market__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2014,
+            "modifiedTime": 1543991214767,
+            "changeTime": 1543991214767,
+            "contentHash": "f67d25d48a0066effed7297ca600c7558ce6fe62"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1543991214767,
+            "changeTime": 1543991214767,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1543991214767,
+            "changeTime": 1543991214767,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/Predicted_Book_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/Predicted_Book_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 411,
+            "modifiedTime": 1543991214768,
+            "changeTime": 1543991214768,
+            "contentHash": "617ae3be4d3fbe47ccea0792dcd5a10b017f8ecd"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1543991214768,
+            "changeTime": 1543991214768,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1543991214768,
+            "changeTime": 1543991214768,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2020,
+            "modifiedTime": 1543991214790,
+            "changeTime": 1543991214790,
+            "contentHash": "e46766677733e3cb1db2dfe259075f987cbbc375"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2293,
+            "modifiedTime": 1543991214791,
+            "changeTime": 1543991214791,
+            "contentHash": "ba27af2d9454f80639e1ef95cf2864dab50dd78c"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 391,
+            "modifiedTime": 1543991214791,
+            "changeTime": 1543991214791,
+            "contentHash": "13c213889e7893f134fce243b51f3db3dbd38fa9"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 591,
+            "modifiedTime": 1543991214791,
+            "changeTime": 1543991214791,
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1543991214792,
+            "changeTime": 1543991214792,
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1543991214792,
+            "changeTime": 1543991214792,
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1543991214792,
+            "changeTime": 1543991214792,
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Book_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Book_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1543991214792,
+            "changeTime": 1543991214792,
+            "contentHash": "6520ff6993ad7b80498aec6c9dbf2f4b9874af08"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1543991214793,
+            "changeTime": 1543991214793,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Types__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields/Types__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1543991214793,
+            "changeTime": 1543991214793,
+            "contentHash": "f8f9565edadbb18077894260f40c8ba773e6c8f5"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2219,
+            "modifiedTime": 1543991214802,
+            "changeTime": 1543991214802,
+            "contentHash": "601d4404704394ff9fbfb3b3d1653114d311f894"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2134,
+            "modifiedTime": 1543991214804,
+            "changeTime": 1543991214804,
+            "contentHash": "daec37d562975807d962c04c38830795fbef5d0a"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts/Reservation__c-Reservation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts/Reservation__c-Reservation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2083,
+            "modifiedTime": 1543991214806,
+            "changeTime": 1543991214806,
+            "contentHash": "408fd5e1c1dae94d024b0ae28526ba1eb53cc236"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8917,
+            "modifiedTime": 1543991214812,
+            "changeTime": 1543991214812,
+            "contentHash": "0cfe6a33334abc5afda7689d40f1d481f4e70c08"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8579,
+            "modifiedTime": 1543991214817,
+            "changeTime": 1543991214817,
+            "contentHash": "978bc4c47e7567ad81628c2bc47d4c03919b4d0e"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8579,
+            "modifiedTime": 1543991214825,
+            "changeTime": 1543991214825,
+            "contentHash": "978bc4c47e7567ad81628c2bc47d4c03919b4d0e"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23115,
+            "modifiedTime": 1543991214838,
+            "changeTime": 1543991214838,
+            "contentHash": "2157b25e29d517ba5a21634c37977d8c70b20b45"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543991214743,
+            "changeTime": 1543991214743,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543991214754,
+            "changeTime": 1543991214754,
+            "contentHash": "b62655c5aa63e2a96a2c0536a4d4441a2f70bc56"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543991214790,
+            "changeTime": 1543991214790,
+            "contentHash": "f1c8aa871dc27a9e0962fafe5e2f2c5ed39b6770"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Reservation__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1543991214757,
+            "changeTime": 1543991214757,
+            "contentHash": "b60dcdb9547423099c4b22c5844e1c5b6df20760"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543991214767,
+            "changeTime": 1543991214767,
+            "contentHash": "0ff9e90f61243a7eeb33f2abb884fc6a18867054"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Market__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1543991214768,
+            "changeTime": 1543991214768,
+            "contentHash": "a245bd7fd01825a0bd529f7be8701e5d6a18daba"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543991214790,
+            "changeTime": 1543991214790,
+            "contentHash": "641de536c2ed4ba826917cf424c10bce434ff161"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/objects/Space__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1543991214793,
+            "changeTime": 1543991214793,
+            "contentHash": "e020ac9a59998d88e9e69db3b717ac79eca298f5"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543991214806,
+            "changeTime": 1543991214806,
+            "contentHash": "b580070a23aa32c6dba40b007ca09b275a2ea774"
+        }
+    ],
+    [
+        "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Kevinaism/Desktop/untitled folder/myeasy/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543991214838,
+            "changeTime": 1543991214838,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
